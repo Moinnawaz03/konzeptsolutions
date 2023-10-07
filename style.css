@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Borel", cursive;
+  font-family: "Caveat", cursive;
+  font-family: "Dancing Script", cursive;
+  font-family: "Dosis", sans-serif;
+  font-family: "Merriweather", serif;
+  font-family: "Roboto Slab", serif;
+}
+.head {
+  margin-top: 100px;
+  margin-left: 20px !important;
+  text-align: start;
+}
+h1 {
+  font-size: 80px !important;
+  font-weight: 600 !important;
+  color: rgb(245, 245, 249);
+}
+h2 {
+  font-size: 50px !important;
+}
+h6 {
+  color: grey;
+}
+p {
+  color: grey;
+  margin-left: 30px;
+}
+.our {
+  margin-left: 80px !important;
+  color: white;
+}
+input {
+  margin: 5px;
+  padding: 5px;
+  width: 30vw;
+}
+.card:hover {
+  box-shadow: 3px 3px 3px 3px grey;
+}
